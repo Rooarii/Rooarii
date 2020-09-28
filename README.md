@@ -1,4 +1,4 @@
-# Iaorana 🤙
+# Iaorana (Hello) 🤙
 ### Of Tahitian 🇵🇫🌴 origin with dual citizen ship 🇫🇷 - 🇨🇦, I have lived in France for ten years.
 
 Holder of a master's degree in Aeronautical Mechanical Engineering, I worked for 3 years in aeronautics as a consultant.
