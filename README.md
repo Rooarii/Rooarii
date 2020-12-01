@@ -3,7 +3,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="100" height="100" />
-## citizen ship 🇫🇷 - 🇨🇦
+
+citizen ship 🇫🇷 - 🇨🇦
 
 I have lived in France for ten years in the country of the chocolatine.</br>
 Curious by nature, I trained myself on different techniques such as:
