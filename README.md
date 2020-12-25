@@ -7,7 +7,7 @@
 citizen ship 🇫🇷 - 🇨🇦
 
 I have lived in France for ten years in the country of the chocolatine.</br>
-Curious by nature, I trained myself on different techniques such as:
+Curious by nature, I trained myself on different technos such as:
 
 - Javascript 
 -Python
