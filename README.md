@@ -27,3 +27,7 @@ Check out my <a href="Rooarii MANUEL.pdf" download="Rooarii MANUEL.pdf">resume</
 </br>
 </br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rooarii&show_icons=true&theme=vue-dark&bg" alt="rooarii" />
+
+# Contributions
+https://github.com/Rooarii/Rooarii/blob/output/github-contribution-grid-snake.gif
+![rooarii snake gif](https://github.com/Rooarii/Rooarii/blob/output/github-contribution-grid-snake.gif)
