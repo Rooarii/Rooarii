@@ -14,7 +14,3 @@
 
 
 ![rooarii snake gif](https://github.com/Rooarii/Rooarii/blob/output/github-contribution-grid-snake.svg)
-
- ## **Nānā!** Tahitian word used to say goodbye
- 
-<img align="left" src="./teahupoo.jpg" width="100%">
