@@ -7,9 +7,9 @@
 <div>
   <h1>Contributions</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooarii&layout=compact" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Rooarii&count_private=true" >
  
-  <img  width="450" src="https://github-readme-stats.vercel.app/api?username=rooarii&show_icons=true" >
+  <img  width="450" src="https://github-readme-stats.vercel.app/api?username=Rooarii&show_icons=true" >
 </div>
 
 
