@@ -9,7 +9,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Rooarii&count_private=true" >
  
-  <img  width="450" src="https://github-readme-stats.vercel.app/api?username=Rooarii&show_icons=true" >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rooarii" >
 </div>
 
 
